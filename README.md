@@ -3,7 +3,7 @@
 ## Прошёл обучение:
 
 ### Нетология:
-Июнь 2022 — По настоящее время
+Май 2022 — По настоящее время
 
 Подготовка и дополнительное обучение специалистов в сфере ИТ
 Москва • 1602 выпускника
@@ -13,6 +13,7 @@ https://netology.ru/
 
 ![](https://habrastorage.org/getpro/moikrug/uploads/additional_education/000/072/758/diploma/fcf181f609ca82492316ef4711ede491.png)
 
+![Git сертификат](https://user-images.githubusercontent.com/108871740/185031265-12101921-c0b9-4779-9f7b-07c4c2fb95e3.png)
 
 ### Высшее образование:
 
