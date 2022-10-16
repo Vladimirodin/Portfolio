@@ -10,10 +10,10 @@
 https://netology.ru/
 
 ### Тестировщик ПО
+![Сертификат Нетология](https://user-images.githubusercontent.com/108871740/196023921-fe01a0a7-1c9b-4dd6-a341-e712c1d2ae2d.png)
+![Git сертификат](https://user-images.githubusercontent.com/108871740/196023924-430408f6-5684-4194-9b2d-607cb13ea71a.png)
+![JAVA Сертификат](https://user-images.githubusercontent.com/108871740/196023925-9011844c-ef69-438a-a918-480d4cee815b.png)
 
-![](https://habrastorage.org/getpro/moikrug/uploads/additional_education/000/072/758/diploma/fcf181f609ca82492316ef4711ede491.png)
-
-![Git сертификат](https://user-images.githubusercontent.com/108871740/185031265-12101921-c0b9-4779-9f7b-07c4c2fb95e3.png)
 
 ### Высшее образование:
 
